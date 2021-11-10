@@ -8,13 +8,6 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"notes/year final/Bangla First Part, Literature/বায়ান্নের দিনগুলো - শেখ মুজিবুর রহমান\"",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
       "query": "path:\"notes/year final/Bangla First Part, Literature/বিলাসী - শরৎচন্দ্র চট্টোপাধ্যায়\"",
       "color": {
         "a": 1,
@@ -32,6 +25,6 @@
   "repelStrength": 10.8524797971795,
   "linkStrength": 1,
   "linkDistance": 175,
-  "scale": 0.7132754626224536,
+  "scale": 1.0000000000000169,
   "close": true
 }
