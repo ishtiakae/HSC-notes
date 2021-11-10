@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "30b027ceb5b1c226",
+    "type": "split",
+    "children": [
+      {
+        "id": "0cd2ef337ae74824",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/year final/Bangla First Part, Literature/বিলাসী - শরৎচন্দ্র চট্টোপাধ্যায়/Word Meaning/খরিশ গোখরো.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "834609a87752af40",
+    "type": "split",
+    "children": [
+      {
+        "id": "f05112c742678dc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e286f72f3df990d7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ac46e5eed2102a30",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ee4539326f1ba90d",
+    "type": "split",
+    "children": [
+      {
+        "id": "28ba429cf2db5edd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d471f9761e984944",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/year final/Bangla First Part, Literature/বিলাসী - শরৎচন্দ্র চট্টোপাধ্যায়/Word Meaning/খরিশ গোখরো.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0cd2ef337ae74824",
+  "lastOpenFiles": [
+    "notes/year final/Bangla First Part, Literature/বিলাসী - শরৎচন্দ্র চট্টোপাধ্যায়/Word Meaning/খরিশ গোখরো.md",
+    "notes/year final/Bangla First Part, Literature/বিলাসী - শরৎচন্দ্র চট্টোপাধ্যায়/Main story.md",
+    "notes/year final/Bangla First Part, Literature/বিলাসী - শরৎচন্দ্র চট্টোপাধ্যায়/খুড়ো.md",
+    "notes/year final/Bangla First Part, Literature/বিলাসী - শরৎচন্দ্র চট্টোপাধ্যায়/ন্যাড়া - narrator.md",
+    "notes/year final/Bangla First Part, Literature/বিলাসী - শরৎচন্দ্র চট্টোপাধ্যায়/বিলাসী.md"
+  ]
+}
