@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "0cd2ef337ae74824",
+        "id": "34ede0f63b03414b",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "notes/year final/Syllebus.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -49,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 360
   },
   "right": {
     "id": "ee4539326f1ba90d",
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/year final/Syllebus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,12 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0cd2ef337ae74824",
+  "active": "34ede0f63b03414b",
   "lastOpenFiles": [
-    "notes/year final/Bangla First Part, Literature/বিলাসী - শরৎচন্দ্র চট্টোপাধ্যায়/Main story.md",
-    "notes/year final/Bangla First Part, Literature/বিলাসী - শরৎচন্দ্র চট্টোপাধ্যায়/বিলাসী.md",
-    "notes/year final/Bangla First Part, Literature/বিলাসী - শরৎচন্দ্র চট্টোপাধ্যায়/Word Meaning/খরিশ গোখরো.md",
-    "notes/year final/Bangla First Part, Literature/বিলাসী - শরৎচন্দ্র চট্টোপাধ্যায়/খুড়ো.md",
-    "notes/year final/Bangla First Part, Literature/বিলাসী - শরৎচন্দ্র চট্টোপাধ্যায়/ন্যাড়া - narrator.md"
+    "notes/year final/Syllebus.md",
+    "notes/year final/Bangla First Part, Literature/Pasted image 20211110202940.png",
+    "notes/year final/Bangla First Part, Literature/বায়ান্নের দিনগুলো - শেখ মুজিবুর রহমান/বায়ান্নের দিনগুলি - storyline.md",
+    "notes/year final/Bangla First Part, Literature/বায়ান্নের দিনগুলো - শেখ মুজিবুর রহমান/শেখ মুজিবুর রহমান.md",
+    "notes/year final/Bangla First Part, Literature/বায়ান্নের দিনগুলো - শেখ মুজিবুর রহমান/মহিউদ্দিন আহমদ.md",
+    "notes/year final/Bangla First Part, Literature/বায়ান্নের দিনগুলো - শেখ মুজিবুর রহমান/প্লুরাসিস.md",
+    "notes/year final/Bangla First Part, Literature/বিলাসী - শরৎচন্দ্র চট্টোপাধ্যায়/বিলাসী - storyline.md",
+    "notes/year final/Bangla First Part, Literature/বায়ান্নের দিনগুলো - শেখ মুজিবুর রহমান/অসমাপ্ত আত্মজীবনী.md",
+    "notes/year final/Bangla First Part, Literature/বিলাসী - শরৎচন্দ্র চট্টোপাধ্যায়/Word Meaning/মা-সরস্বতী.md",
+    "notes/year final/Bangla First Part, Literature/বিলাসী - শরৎচন্দ্র চট্টোপাধ্যায়/খুড়ো.md"
   ]
 }
